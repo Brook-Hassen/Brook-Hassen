@@ -1,111 +1,72 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brook-Hassen/Brook-Hassen/main/assets/app-hero-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Brook-Hassen/Brook-Hassen/main/assets/app-hero-dark.svg" alt="Biruk Hassen — portfolio app" width="100%" />
-</picture>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 32" width="42" height="28" fill="none" stroke="#5eead4" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+  <path d="M14 6 L4 16 L14 26"/>
+  <path d="M28 4 L20 28"/>
+  <path d="M34 6 L44 16 L34 26"/>
+</svg>
+
+## Biruk Hassen<span style="color:#5eead4">.</span>
+
+**Full-Stack Developer · AI Engineer**
+
+Addis Ababa, Ethiopia
+
+I build web apps, train AI models, and craft the datasets that make them actually work.
+
+[brookhassen.com](https://brookhassen.com) · [LinkedIn](https://www.linkedin.com/in/brookcodes/) · [Email](mailto:brookhassen.dev@gmail.com)
 
 <br />
 
-<!-- Bento dashboard -->
-<table width="100%" cellspacing="0" cellpadding="0">
-<tr>
-<td width="34%" valign="top" style="padding:0 8px 16px 0;">
-<div style="background:linear-gradient(180deg,#0f172a 0%,#020617 100%);border:1px solid #1e293b;border-radius:16px;padding:20px;height:100%;box-sizing:border-box;">
-<p style="margin:0 0 4px;font:600 10px/1 system-ui,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:#64748b;">Now</p>
-<p style="margin:0 0 6px;font:600 18px/1.25 system-ui,sans-serif;color:#e2e8f0;">Eagle Point AI</p>
-<p style="margin:0 0 14px;font:500 13px/1.5 system-ui,sans-serif;color:#5eead4;">Coding Dataset Engineer</p>
-<p style="margin:0;font:400 13px/1.65 system-ui,sans-serif;color:#94a3b8;">Building &amp; reviewing coding datasets for LLM training. Managing delivery for ByteDance Seed &amp; Mindflow.</p>
-</div>
-</td>
-<td width="33%" valign="top" style="padding:0 8px 16px 8px;">
-<div style="background:linear-gradient(180deg,#0f172a 0%,#020617 100%);border:1px solid #1e293b;border-radius:16px;padding:20px;height:100%;box-sizing:border-box;">
-<p style="margin:0 0 4px;font:600 10px/1 system-ui,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:#64748b;">Shipped</p>
-<p style="margin:0 0 6px;font:600 18px/1.25 system-ui,sans-serif;color:#e2e8f0;">Future Quest</p>
-<p style="margin:0 0 14px;font:400 13px/1.65 system-ui,sans-serif;color:#94a3b8;">2,000+ students navigating global education paths.</p>
-<a href="https://quest-future.com/" style="font:600 13px/1 system-ui,sans-serif;color:#5eead4;text-decoration:none;">quest-future.com →</a>
-</div>
-</td>
-<td width="33%" valign="top" style="padding:0 0 16px 8px;">
-<div style="background:linear-gradient(180deg,#0f172a 0%,#020617 100%);border:1px solid #1e293b;border-radius:16px;padding:20px;height:100%;box-sizing:border-box;">
-<p style="margin:0 0 4px;font:600 10px/1 system-ui,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:#64748b;">Location</p>
-<p style="margin:0 0 6px;font:600 18px/1.25 system-ui,sans-serif;color:#e2e8f0;">Addis Ababa</p>
-<p style="margin:0 0 14px;font:400 13px/1.65 system-ui,sans-serif;color:#94a3b8;">Ethiopia · Remote worldwide</p>
-<a href="https://brookhassen.com" style="font:600 13px/1 system-ui,sans-serif;color:#5eead4;text-decoration:none;">brookhassen.com →</a>
-</div>
-</td>
-</tr>
-<tr>
-<td colspan="3" valign="top" style="padding:0 0 16px 0;">
-<div style="background:linear-gradient(180deg,#0f172a 0%,#020617 100%);border:1px solid #1e293b;border-radius:16px;padding:22px 24px;">
-<p style="margin:0 0 16px;font:600 10px/1 system-ui,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:#64748b;">Stack</p>
-<table width="100%" cellspacing="0" cellpadding="0"><tr>
-<td width="33%" valign="top" style="padding-right:12px;">
-<p style="margin:0 0 10px;font:600 10px/1 system-ui,sans-serif;letter-spacing:.08em;text-transform:uppercase;color:#475569;">Full-Stack</p>
-<img src="https://img.shields.io/badge/React-5eead4?style=flat-square&labelColor=042f2e&logo=react&logoColor=5eead4" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-5eead4?style=flat-square&labelColor=042f2e&logo=nextdotjs&logoColor=5eead4" alt="Next.js" />
-<img src="https://img.shields.io/badge/Vue-5eead4?style=flat-square&labelColor=042f2e&logo=vuedotjs&logoColor=5eead4" alt="Vue" />
-<img src="https://img.shields.io/badge/TypeScript-5eead4?style=flat-square&labelColor=042f2e&logo=typescript&logoColor=5eead4" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Python-5eead4?style=flat-square&labelColor=042f2e&logo=python&logoColor=5eead4" alt="Python" />
-<img src="https://img.shields.io/badge/Node.js-5eead4?style=flat-square&labelColor=042f2e&logo=nodedotjs&logoColor=5eead4" alt="Node.js" />
-<img src="https://img.shields.io/badge/PostgreSQL-5eead4?style=flat-square&labelColor=042f2e&logo=postgresql&logoColor=5eead4" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Tailwind-5eead4?style=flat-square&labelColor=042f2e&logo=tailwindcss&logoColor=5eead4" alt="Tailwind" />
-</td>
-<td width="33%" valign="top" style="padding:0 6px;">
-<p style="margin:0 0 10px;font:600 10px/1 system-ui,sans-serif;letter-spacing:.08em;text-transform:uppercase;color:#475569;">AI &amp; Data</p>
-<img src="https://img.shields.io/badge/LLM_Fine--tuning-5eead4?style=flat-square&labelColor=042f2e" alt="LLM" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-5eead4?style=flat-square&labelColor=042f2e" alt="Prompt Engineering" />
-<img src="https://img.shields.io/badge/FastAPI-5eead4?style=flat-square&labelColor=042f2e&logo=fastapi&logoColor=5eead4" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Dataset_Curation-5eead4?style=flat-square&labelColor=042f2e" alt="Dataset Curation" />
-<img src="https://img.shields.io/badge/Quality_Review-5eead4?style=flat-square&labelColor=042f2e" alt="Quality Review" />
-<img src="https://img.shields.io/badge/Label_Studio-5eead4?style=flat-square&labelColor=042f2e" alt="Label Studio" />
-</td>
-<td width="33%" valign="top" style="padding-left:12px;">
-<p style="margin:0 0 10px;font:600 10px/1 system-ui,sans-serif;letter-spacing:.08em;text-transform:uppercase;color:#475569;">Tools &amp; Cloud</p>
-<img src="https://img.shields.io/badge/Git-5eead4?style=flat-square&labelColor=042f2e&logo=git&logoColor=5eead4" alt="Git" />
-<img src="https://img.shields.io/badge/Docker-5eead4?style=flat-square&labelColor=042f2e&logo=docker&logoColor=5eead4" alt="Docker" />
-<img src="https://img.shields.io/badge/AWS-5eead4?style=flat-square&labelColor=042f2e&logo=amazonaws&logoColor=5eead4" alt="AWS" />
-<img src="https://img.shields.io/badge/Vercel-5eead4?style=flat-square&labelColor=042f2e&logo=vercel&logoColor=5eead4" alt="Vercel" />
-<img src="https://img.shields.io/badge/Linux-5eead4?style=flat-square&labelColor=042f2e&logo=linux&logoColor=5eead4" alt="Linux" />
-</td>
-</tr></table>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="padding:0 8px 0 0;">
-<div style="background:linear-gradient(135deg,rgba(45,212,191,.08) 0%,#0f172a 40%,#020617 100%);border:1px solid rgba(45,212,191,.15);border-radius:16px;padding:20px;">
-<p style="margin:0 0 4px;font:600 10px/1 system-ui,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:#64748b;">AI-assisted dev</p>
-<p style="margin:0 0 14px;font:400 13px/1.65 system-ui,sans-serif;color:#94a3b8;">Intent, context, and a standard for the result — not vibe coding.</p>
-<img src="https://img.shields.io/badge/Claude-5eead4?style=flat-square&labelColor=042f2e&logo=anthropic&logoColor=5eead4" alt="Claude" />
-<img src="https://img.shields.io/badge/Codex-5eead4?style=flat-square&labelColor=042f2e&logo=openai&logoColor=5eead4" alt="Codex" />
-<img src="https://img.shields.io/badge/Cursor-5eead4?style=flat-square&labelColor=042f2e" alt="Cursor" />
-<img src="https://img.shields.io/badge/Copilot-5eead4?style=flat-square&labelColor=042f2e&logo=githubcopilot&logoColor=5eead4" alt="Copilot" />
-</div>
-</td>
-<td width="50%" valign="top" style="padding:0 0 0 8px;">
-<div style="background:linear-gradient(180deg,#0f172a 0%,#020617 100%);border:1px solid #1e293b;border-radius:16px;padding:20px;">
-<p style="margin:0 0 4px;font:600 10px/1 system-ui,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:#64748b;">More work</p>
-<p style="margin:0 0 8px;font:600 15px/1.3 system-ui,sans-serif;color:#e2e8f0;"><a href="https://www.pinnxai.com/" style="color:#e2e8f0;text-decoration:none;">PINNACLE AI</a> · <a href="https://framebyframe.productions/" style="color:#e2e8f0;text-decoration:none;">Frame by Frame</a></p>
-<p style="margin:0 0 12px;font:400 13px/1.65 system-ui,sans-serif;color:#94a3b8;">Agency site on Vue SSG · cinematic studio landing with Three.js &amp; GSAP.</p>
-<p style="margin:0;font:400 13px/1.65 system-ui,sans-serif;color:#64748b;">
-<a href="https://github.com/Brook-Hassen/PINNACLE" style="color:#5eead4;text-decoration:none;">GitHub →</a>
-&nbsp;·&nbsp;
-<a href="https://brookhassen.com/projects/aquila" style="color:#5eead4;text-decoration:none;">Aquila case study →</a>
-</p>
-</div>
-</td>
-</tr>
-</table>
+I'm based in Addis Ababa, working at the intersection of software engineering and AI. I like moving between disciplines — some days writing Python pipelines, other days building a UI, other days reviewing a dataset entry for the fifth time because something feels off.
+
+Right now I spend most of my time building and reviewing coding datasets that go directly into LLM training pipelines. Before that, I was in India, building and deploying production systems in the fintech space.
 
 <br />
 
-<p align="center" style="font:500 14px/1.6 system-ui,sans-serif;color:#64748b;">
-<a href="https://brookhassen.com" style="color:#5eead4;text-decoration:none;font-weight:600;">Open full portfolio</a>
-&nbsp;·&nbsp;
-<a href="mailto:brookhassen.dev@gmail.com" style="color:#94a3b8;text-decoration:none;">brookhassen.dev@gmail.com</a>
-&nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/brookcodes/" style="color:#94a3b8;text-decoration:none;">LinkedIn</a>
-</p>
+### Experience
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Brook-Hassen&color=5eead4&style=flat-square&label=views" alt="Profile views" />
-</p>
+**Coding Dataset Engineer & Project Lead · Eagle Point AI**  
+`2025 – Present` · Addis Ababa
+
+I build the data that teaches models how to code — written, tested, and reviewed like production code. I also manage delivery for partners including ByteDance's Seed team and Mindflow.
+
+**Freelance Full-Stack Developer · Upwork**  
+`2025 – Present` · Remote
+
+Dashboards, internal tools, client-facing apps, API integrations, and the occasional half-finished codebase that needed untangling first. React or Vue up front, Node.js underneath, PostgreSQL or MongoDB holding the data.
+
+**Model Training Team Lead · Haidata**  
+`2023 – 2024` · Karnataka, India
+
+Led quality review across medical, coding, and multimodal datasets. Built the standards the team worked against and trained new hires to catch what generic annotators miss.
+
+<br />
+
+### Projects
+
+**[Future Quest](https://quest-future.com/)** — Full product helping 2,000+ students navigate scholarships, work permits, and relocation across 30+ countries. Next.js, TypeScript, Tailwind.
+
+**[PINNACLE AI](https://www.pinnxai.com/)** — Agency site built to prove the work, not just describe it. Vue 3, Vite SSG, Vercel. [Code](https://github.com/Brook-Hassen/PINNACLE)
+
+**[Frame by Frame](https://framebyframe.productions/)** — Cinematic studio landing with GSAP and lazy-loaded Three.js. [Code](https://github.com/Brook-Hassen/frame-by-frame-agency-website)
+
+**[Aquila](https://brookhassen.com/projects/aquila)** — Internal AI data platform at Eagle Point AI. Case study only.
+
+<br />
+
+### Skills
+
+**Full-Stack** — React, Next.js, Vue, TypeScript, Python, Node.js, Express, PostgreSQL, MongoDB, Tailwind CSS
+
+**AI & Data** — LLM Fine-tuning, Prompt Engineering, Dataset Curation, SQL, FastAPI, Quality Review, Label Studio
+
+**Tools & Cloud** — Git, Docker, AWS, Vercel, Linux
+
+<br />
+
+### AI-assisted development
+
+I use AI the same way I use any other tool: with intent, context, and a standard for the result. Claude, Codex, Cursor, and GitHub Copilot help me move faster — not hand over the thinking.
+
+<br />
+
+Open to freelance work, AI roles, and anything genuinely interesting.
