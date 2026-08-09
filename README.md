@@ -1,51 +1,83 @@
-## Biruk Hassen<span style="color:#5eead4">.</span>
+<h1 style="margin:0 0 6px;font-size:28px;font-weight:700;color:#e2e8f0;letter-spacing:-0.02em;">
+Biruk Hassen<span style="color:#5eead4">.</span>
+</h1>
 
-**Full-Stack Developer · AI Engineer**
+<p style="margin:0 0 4px;font-size:17px;font-weight:500;color:#e2e8f0;">Full-Stack Developer &amp; AI Engineer</p>
 
+<p style="margin:0 0 14px;font-size:15px;line-height:1.6;color:#94a3b8;max-width:640px;">
 I build web apps, train AI models, and craft the datasets that make them actually work.
+</p>
 
-[brookhassen.com](https://brookhassen.com) · [LinkedIn](https://www.linkedin.com/in/brookcodes/) · [Email](mailto:brookhassen.dev@gmail.com)
-
-<br />
-
-**About**
-
-I'm based in Addis Ababa, working at the intersection of software engineering and AI — building UIs, writing pipelines, and reviewing the datasets that go into LLM training. Open to freelance work and anything genuinely interesting.
-
-<br />
-
-**Stack**
-
-<sub>**FULL-STACK**</sub>
-
-<img src="https://img.shields.io/badge/React-5eead4?style=for-the-badge&logo=react&logoColor=5eead4&labelColor=042f2e" height="28" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-5eead4?style=for-the-badge&logo=nextdotjs&logoColor=5eead4&labelColor=042f2e" height="28" alt="Next.js" />
-<img src="https://img.shields.io/badge/Vue-5eead4?style=for-the-badge&logo=vuedotjs&logoColor=5eead4&labelColor=042f2e" height="28" alt="Vue" />
-<img src="https://img.shields.io/badge/TypeScript-5eead4?style=for-the-badge&logo=typescript&logoColor=5eead4&labelColor=042f2e" height="28" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Python-5eead4?style=for-the-badge&logo=python&logoColor=5eead4&labelColor=042f2e" height="28" alt="Python" />
-<img src="https://img.shields.io/badge/Node.js-5eead4?style=for-the-badge&logo=nodedotjs&logoColor=5eead4&labelColor=042f2e" height="28" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-5eead4?style=for-the-badge&logo=express&logoColor=5eead4&labelColor=042f2e" height="28" alt="Express" />
-<img src="https://img.shields.io/badge/PostgreSQL-5eead4?style=for-the-badge&logo=postgresql&logoColor=5eead4&labelColor=042f2e" height="28" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MongoDB-5eead4?style=for-the-badge&logo=mongodb&logoColor=5eead4&labelColor=042f2e" height="28" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Tailwind-5eead4?style=for-the-badge&logo=tailwindcss&logoColor=5eead4&labelColor=042f2e" height="28" alt="Tailwind CSS" />
+<p style="margin:0;font-size:14px;line-height:1.8;">
+<a href="https://brookhassen.com" style="color:#5eead4;text-decoration:none;">brookhassen.com</a>
+<span style="color:#334155;"> · </span>
+<a href="https://www.linkedin.com/in/brookcodes/" style="color:#94a3b8;text-decoration:none;">LinkedIn</a>
+<span style="color:#334155;"> · </span>
+<a href="mailto:brookhassen.dev@gmail.com" style="color:#94a3b8;text-decoration:none;">Email</a>
+</p>
 
 <br />
 
-<sub>**AI & DATA**</sub>
-
-<img src="https://img.shields.io/badge/LLM_Fine--tuning-5eead4?style=for-the-badge&logo=huggingface&logoColor=5eead4&labelColor=042f2e" height="28" alt="LLM Fine-tuning" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-5eead4?style=for-the-badge&labelColor=042f2e" height="28" alt="Prompt Engineering" />
-<img src="https://img.shields.io/badge/FastAPI-5eead4?style=for-the-badge&logo=fastapi&logoColor=5eead4&labelColor=042f2e" height="28" alt="FastAPI" />
-<img src="https://img.shields.io/badge/SQL-5eead4?style=for-the-badge&logo=mysql&logoColor=5eead4&labelColor=042f2e" height="28" alt="SQL" />
-<img src="https://img.shields.io/badge/Dataset_Curation-5eead4?style=for-the-badge&labelColor=042f2e" height="28" alt="Dataset Curation" />
-<img src="https://img.shields.io/badge/Quality_Review-5eead4?style=for-the-badge&labelColor=042f2e" height="28" alt="Quality Review" />
-
+<table><tr>
+<td width="32" valign="middle"><div style="height:1px;background:#475569;width:32px;"></div></td>
+<td valign="middle"><span style="font-size:11px;font-weight:700;letter-spacing:0.18em;text-transform:uppercase;color:#64748b;">About</span></td>
+</tr></table>
 <br />
 
-<sub>**TOOLS & CLOUD**</sub>
+<p style="margin:0 0 16px;font-size:15px;line-height:1.7;color:#94a3b8;max-width:720px;">
+I'm based in Addis Ababa, Ethiopia, working at the intersection of software engineering and AI. I like moving between disciplines: some days writing Python pipelines, other days building a UI, other days reviewing a dataset entry for the fifth time because something feels off. I like that variety, and I'm good at all three.
+</p>
 
-<img src="https://img.shields.io/badge/Git-5eead4?style=for-the-badge&logo=git&logoColor=5eead4&labelColor=042f2e" height="28" alt="Git" />
-<img src="https://img.shields.io/badge/Docker-5eead4?style=for-the-badge&logo=docker&logoColor=5eead4&labelColor=042f2e" height="28" alt="Docker" />
-<img src="https://img.shields.io/badge/AWS-5eead4?style=for-the-badge&logo=amazonaws&logoColor=5eead4&labelColor=042f2e" height="28" alt="AWS" />
-<img src="https://img.shields.io/badge/Vercel-5eead4?style=for-the-badge&logo=vercel&logoColor=5eead4&labelColor=042f2e" height="28" alt="Vercel" />
-<img src="https://img.shields.io/badge/Linux-5eead4?style=for-the-badge&logo=linux&logoColor=5eead4&labelColor=042f2e" height="28" alt="Linux" />
+<p style="margin:0 0 16px;font-size:15px;line-height:1.7;color:#94a3b8;max-width:720px;">
+Right now I spend most of my time building and reviewing coding datasets that go directly into LLM training pipelines. Before that, I was in India, building and deploying production systems in the fintech space.
+</p>
+
+<p style="margin:0;font-size:15px;line-height:1.7;color:#94a3b8;max-width:720px;">
+On the dev side, I build full-stack applications with <span style="color:#e2e8f0;">React</span>, <span style="color:#e2e8f0;">Next.js</span>, <span style="color:#e2e8f0;">Vue</span>, <span style="color:#e2e8f0;">TypeScript</span>, <span style="color:#e2e8f0;">Node.js</span>, and <span style="color:#e2e8f0;">Express</span>, backed by <span style="color:#e2e8f0;">PostgreSQL</span> or <span style="color:#e2e8f0;">MongoDB</span> and styled with <span style="color:#e2e8f0;">Tailwind CSS</span>. I pick the stack based on what the problem actually needs. I've built systems with a <span style="color:#e2e8f0;">Next.js</span> frontend and a dedicated <span style="color:#e2e8f0;">Python</span> backend, splitting the UI layer from the data/ML-heavy logic where Python made more sense. Be it a web app, a training pipeline, or the dataset that makes a model actually work, I care about the small details that separate something that runs from something that's genuinely good.
+</p>
+
+<br /><br />
+
+<table><tr>
+<td width="32" valign="middle"><div style="height:1px;background:#475569;width:32px;"></div></td>
+<td valign="middle"><span style="font-size:11px;font-weight:700;letter-spacing:0.18em;text-transform:uppercase;color:#64748b;">Skills</span></td>
+</tr></table>
+<br />
+
+<p style="margin:0 0 24px;font-size:15px;line-height:1.65;color:#94a3b8;max-width:720px;">
+Technologies I work with across full-stack development and AI data production.
+</p>
+
+<p style="margin:0 0 10px;font-size:11px;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;color:#64748b;">Full-Stack</p>
+<p style="margin:0 0 28px;line-height:2.2;">
+<span style="display:inline-flex;align-items:center;gap:6px;background:rgba(45,212,191,0.1);color:#5eead4;padding:4px 12px;border-radius:9999px;font-size:12px;font-weight:500;margin:0 6px 6px 0;font-family:Inter,system-ui,sans-serif;"><img src="https://cdn.simpleicons.org/react/61DAFB" width="14" height="14" alt="" />React</span>
+<span style="display:inline-flex;align-items:center;gap:6px;background:rgba(45,212,191,0.1);color:#5eead4;padding:4px 12px;border-radius:9999px;font-size:12px;font-weight:500;margin:0 6px 6px 0;font-family:Inter,system-ui,sans-serif;"><img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="14" height="14" alt="" />Next.js</span>
+<span style="display:inline-flex;align-items:center;gap:6px;background:rgba(45,212,191,0.1);color:#5eead4;padding:4px 12px;border-radius:9999px;font-size:12px;font-weight:500;margin:0 6px 6px 0;font-family:Inter,system-ui,sans-serif;"><img src="https://cdn.simpleicons.org/vuedotjs/41B883" width="14" height="14" alt="" />Vue</span>
+<span style="display:inline-flex;align-items:center;gap:6px;background:rgba(45,212,191,0.1);color:#5eead4;padding:4px 12px;border-radius:9999px;font-size:12px;font-weight:500;margin:0 6px 6px 0;font-family:Inter,system-ui,sans-serif;"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="14" height="14" alt="" />TypeScript</span>
+<span style="display:inline-flex;align-items:center;gap:6px;background:rgba(45,212,191,0.1);color:#5eead4;padding:4px 12px;border-radius:9999px;font-size:12px;font-weight:500;margin:0 6px 6px 0;font-family:Inter,system-ui,sans-serif;"><img src="https://cdn.simpleicons.org/python/3776AB" width="14" height="14" alt="" />Python</span>
+<span style="display:inline-flex;align-items:center;gap:6px;background:rgba(45,212,191,0.1);color:#5eead4;padding:4px 12px;border-radius:9999px;font-size:12px;font-weight:500;margin:0 6px 6px 0;font-family:Inter,system-ui,sans-serif;"><img src="https://cdn.simpleicons.org/nodedotjs/339933" width="14" height="14" alt="" />Node.js</span>
+<span style="display:inline-flex;align-items:center;gap:6px;background:rgba(45,212,191,0.1);color:#5eead4;padding:4px 12px;border-radius:9999px;font-size:12px;font-weight:500;margin:0 6px 6px 0;font-family:Inter,system-ui,sans-serif;"><img src="https://cdn.simpleicons.org/express/ffffff" width="14" height="14" alt="" />Express</span>
+<span style="display:inline-flex;align-items:center;gap:6px;background:rgba(45,212,191,0.1);color:#5eead4;padding:4px 12px;border-radius:9999px;font-size:12px;font-weight:500;margin:0 6px 6px 0;font-family:Inter,system-ui,sans-serif;"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="14" height="14" alt="" />PostgreSQL</span>
+<span style="display:inline-flex;align-items:center;gap:6px;background:rgba(45,212,191,0.1);color:#5eead4;padding:4px 12px;border-radius:9999px;font-size:12px;font-weight:500;margin:0 6px 6px 0;font-family:Inter,system-ui,sans-serif;"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="14" height="14" alt="" />MongoDB</span>
+<span style="display:inline-flex;align-items:center;gap:6px;background:rgba(45,212,191,0.1);color:#5eead4;padding:4px 12px;border-radius:9999px;font-size:12px;font-weight:500;margin:0 6px 6px 0;font-family:Inter,system-ui,sans-serif;"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="14" height="14" alt="" />Tailwind CSS</span>
+</p>
+
+<p style="margin:0 0 10px;font-size:11px;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;color:#64748b;">AI &amp; Data</p>
+<p style="margin:0 0 28px;line-height:2.2;">
+<span style="display:inline-flex;align-items:center;gap:6px;background:rgba(45,212,191,0.1);color:#5eead4;padding:4px 12px;border-radius:9999px;font-size:12px;font-weight:500;margin:0 6px 6px 0;font-family:Inter,system-ui,sans-serif;"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="14" height="14" alt="" />LLM Fine-tuning</span>
+<span style="display:inline-flex;align-items:center;gap:6px;background:rgba(45,212,191,0.1);color:#5eead4;padding:4px 12px;border-radius:9999px;font-size:12px;font-weight:500;margin:0 6px 6px 0;font-family:Inter,system-ui,sans-serif;">Prompt Engineering</span>
+<span style="display:inline-flex;align-items:center;gap:6px;background:rgba(45,212,191,0.1);color:#5eead4;padding:4px 12px;border-radius:9999px;font-size:12px;font-weight:500;margin:0 6px 6px 0;font-family:Inter,system-ui,sans-serif;">Dataset Curation</span>
+<span style="display:inline-flex;align-items:center;gap:6px;background:rgba(45,212,191,0.1);color:#5eead4;padding:4px 12px;border-radius:9999px;font-size:12px;font-weight:500;margin:0 6px 6px 0;font-family:Inter,system-ui,sans-serif;"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="14" height="14" alt="" />SQL</span>
+<span style="display:inline-flex;align-items:center;gap:6px;background:rgba(45,212,191,0.1);color:#5eead4;padding:4px 12px;border-radius:9999px;font-size:12px;font-weight:500;margin:0 6px 6px 0;font-family:Inter,system-ui,sans-serif;"><img src="https://cdn.simpleicons.org/fastapi/009688" width="14" height="14" alt="" />FastAPI</span>
+<span style="display:inline-flex;align-items:center;gap:6px;background:rgba(45,212,191,0.1);color:#5eead4;padding:4px 12px;border-radius:9999px;font-size:12px;font-weight:500;margin:0 6px 6px 0;font-family:Inter,system-ui,sans-serif;">Quality Review</span>
+<span style="display:inline-flex;align-items:center;gap:6px;background:rgba(45,212,191,0.1);color:#5eead4;padding:4px 12px;border-radius:9999px;font-size:12px;font-weight:500;margin:0 6px 6px 0;font-family:Inter,system-ui,sans-serif;">Label Studio</span>
+</p>
+
+<p style="margin:0 0 10px;font-size:11px;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;color:#64748b;">Tools &amp; Cloud</p>
+<p style="margin:0;line-height:2.2;">
+<span style="display:inline-flex;align-items:center;gap:6px;background:rgba(45,212,191,0.1);color:#5eead4;padding:4px 12px;border-radius:9999px;font-size:12px;font-weight:500;margin:0 6px 6px 0;font-family:Inter,system-ui,sans-serif;"><img src="https://cdn.simpleicons.org/git/F05032" width="14" height="14" alt="" />Git</span>
+<span style="display:inline-flex;align-items:center;gap:6px;background:rgba(45,212,191,0.1);color:#5eead4;padding:4px 12px;border-radius:9999px;font-size:12px;font-weight:500;margin:0 6px 6px 0;font-family:Inter,system-ui,sans-serif;"><img src="https://cdn.simpleicons.org/docker/2496ED" width="14" height="14" alt="" />Docker</span>
+<span style="display:inline-flex;align-items:center;gap:6px;background:rgba(45,212,191,0.1);color:#5eead4;padding:4px 12px;border-radius:9999px;font-size:12px;font-weight:500;margin:0 6px 6px 0;font-family:Inter,system-ui,sans-serif;"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="14" height="14" alt="" />AWS</span>
+<span style="display:inline-flex;align-items:center;gap:6px;background:rgba(45,212,191,0.1);color:#5eead4;padding:4px 12px;border-radius:9999px;font-size:12px;font-weight:500;margin:0 6px 6px 0;font-family:Inter,system-ui,sans-serif;"><img src="https://cdn.simpleicons.org/vercel/ffffff" width="14" height="14" alt="" />Vercel</span>
+<span style="display:inline-flex;align-items:center;gap:6px;background:rgba(45,212,191,0.1);color:#5eead4;padding:4px 12px;border-radius:9999px;font-size:12px;font-weight:500;margin:0 6px 6px 0;font-family:Inter,system-ui,sans-serif;"><img src="https://cdn.simpleicons.org/linux/FCC624" width="14" height="14" alt="" />Linux</span>
+</p>
